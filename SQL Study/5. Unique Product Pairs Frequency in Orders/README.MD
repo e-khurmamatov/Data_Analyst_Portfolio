@@ -28,7 +28,7 @@ Fields in the resulting table: pair, count\_pair
 | order\_id      | INTEGER                     |
 | product\_ids   | ARRAY                       |
 
-![orders](/Study%20Projects/5.%20Unique%20Product%20Pairs%20Frequency%20in%20Orders/orders.png)
+![orders](orders.png)
 
 | products    |                   |
 | ----------- | ----------------- |
@@ -36,7 +36,7 @@ Fields in the resulting table: pair, count\_pair
 | price       | NUMERIC           |
 | product\_id | INTEGER           |
 
-![products](/Study%20Projects/5.%20Unique%20Product%20Pairs%20Frequency%20in%20Orders/products.png)
+![products](products.png)
 
 | user\_actions |                             |
 | ------------- | --------------------------- |
@@ -45,7 +45,7 @@ Fields in the resulting table: pair, count\_pair
 | time          | TIMESTAMP WITHOUT TIME ZONE |
 | user\_id      | INTEGER                     |
 
-![user_actions](/Study%20Projects/5.%20Unique%20Product%20Pairs%20Frequency%20in%20Orders/user_actions.png)
+![user_actions](user_actions.png)
 
 ## Solution
 
