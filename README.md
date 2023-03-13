@@ -1,5 +1,7 @@
 # Eldar Khurmamatov — Data Analyst Portfolio
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=e-khurmamatov.data_analyst_portfolio&left_color=gray&right_color=blue)
+
 Repository to showcase my skills, share projects and track my progress in Data Analytics. Feel free to contact me.
 
 *   LinkedIn: [in/e-khurmamatov][linkedin]
