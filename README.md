@@ -4,15 +4,15 @@
 
 Repository to showcase my skills, share projects and track my progress in Data Analytics. Feel free to contact me.
 
-*   LinkedIn: [in/e-khurmamatov][linkedin]
-*   Telegram: [@exhife][telegram]
-*   E-mail: [e.khurmamatov@gmail.com][email]
+* LinkedIn: [in/e-khurmamatov][linkedin]
+* Telegram: [@exhife][telegram]
+* E-mail: [e.khurmamatov@gmail.com][email]
 
 ## Table of contents
 
-*   [About](#eldar-khurmamatov--data-analyst-portfolio)
-*   [Study Projects](#study-projects)
-*   [Certificates](#certificates)
+* [About](#eldar-khurmamatov--data-analyst-portfolio)
+* [Study Projects](#study-projects)
+* [Certificates](#certificates)
 
 ## Study Projects
 
@@ -40,7 +40,7 @@ Full list also available on [in/e-khurmamatov][linkedin]
 | :---: | :----------: | :---: | :------------------- |
 | 2023 | DataCamp | [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0017519198288) | Demonstrated knowledge in Data Management, Exploratory Analysis, Statistical Experimentation, Communication and Visualization by passing a timed exam and submitting a practical project. |
 | 2023 | DataCamp | [Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/592f0a184e8fcaf1d785efca9ca49e32ccb63b18) | Data manipulation in `numpy` and `pandas`; data visualisation in `seaborn`, customise visualisations; visualise distributions using PMF, CDF and KDE; regression analysis; bootstrapping; hypothesis testing (incl. A/B testing). |
-| 2023 | DataCamp | [Data Analyst in SQL](https://www.datacamp.com/statement-of-accomplishment/track/09a095f99d09b526e096696aa73cf46dcb4ea8ca) | In-depth PostgreSQL. `JOIN`s, set theory (`UNION`, `INTERSECT`, `EXCEPT`), `CASE`, subqueries, CTE, aggregate functions, window functions (`NTILE`, `PARTITION BY`, `RANK`, `DENSE_RANK`, `ROWS BETWEEN`), `ROLLUP`, `CUBE`, `EXISTS`, pivoting using `CROSSTAB` from tablefunc extension. Common data types (incl. arrays), DATE/TIME manipulation, parsing and manipulating text, full-text search using fuzzystrmatch, pg\_trgm extensions. `CAST`, `COALEACE`, `generate_series()`, truncating data, creating temporary tables, bins, `GROUPING SETS`. <br /> <br /> Best practices for translating technical results into stories for non-technical stakeholders, communicating insights, and inspiring the audience to take action. Reports and presentations structure. Data Visualisation and Statistics basics (incl. hypothesis testing and probability distributions). |
+| 2023 | DataCamp | [Data Analyst in SQL](https://www.datacamp.com/statement-of-accomplishment/track/09a095f99d09b526e096696aa73cf46dcb4ea8ca) | In-depth PostgreSQL. `JOIN`s, set theory (`UNION`, `INTERSECT`, `EXCEPT`), `CASE`, subqueries, CTE, aggregate functions, window functions (`NTILE`, `PARTITION BY`, `RANK`, `DENSE_RANK`, `ROWS BETWEEN`), `ROLLUP`, `CUBE`, `EXISTS`, pivoting using `CROSSTAB` from tablefunc extension. Common data types (incl. arrays), DATE/TIME manipulation, parsing and manipulating text, full-text search using fuzzystrmatch, pg\_trgm extensions. `CAST`, `COALESCE`, `generate_series()`, truncating data, creating temporary tables, bins, `GROUPING SETS`. <br /> <br /> Best practices for translating technical results into stories for non-technical stakeholders, communicating insights, and inspiring the audience to take action. Reports and presentations structure. Data Visualisation and Statistics basics (incl. hypothesis testing and probability distributions). |
 
 <!-- Contacts links -->
 [linkedin]: https://www.linkedin.com/in/e-khurmamatov
