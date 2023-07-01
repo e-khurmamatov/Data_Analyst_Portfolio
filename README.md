@@ -3,7 +3,6 @@
 Repository to showcase my skills, share projects and track my progress in Data Analytics. Feel free to contact me.
 
 * LinkedIn: [in/e-khurmamatov][linkedin]
-* Telegram: [@exhife][telegram]
 * E-mail: [e.khurmamatov@gmail.com][email]
 
 ## Table of contents
@@ -42,7 +41,6 @@ Full list also available on [in/e-khurmamatov][linkedin]
 
 <!-- Contacts links -->
 [linkedin]: https://www.linkedin.com/in/e-khurmamatov
-[telegram]: https://t.me/exhife
 [email]: mailto:e.khurmamatov@gmail.com
 
 <!-- Project links -->
