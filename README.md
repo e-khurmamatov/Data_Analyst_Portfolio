@@ -1,4 +1,4 @@
-# Eldar Khurmamatov — Data Analyst Portfolio
+# Data Analyst Portfolio
 
 Repository to showcase my skills, share projects and track my progress in Data Analytics. Feel free to contact me.
 
@@ -7,7 +7,7 @@ Repository to showcase my skills, share projects and track my progress in Data A
 
 ## Table of contents
 
-* [About](#eldar-khurmamatov--data-analyst-portfolio)
+* [About](#data-analyst-portfolio)
 * [Study Projects](#study-projects)
 * [Certificates](#certificates)
 
